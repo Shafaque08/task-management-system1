@@ -1,0 +1,5 @@
+{
+  "name": "Task Management System",
+  "description": "A full-stack task management application with authentication, CRUD operations, filtering, and searching.",
+  "requestFramePermissions": []
+}
